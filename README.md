@@ -11,11 +11,11 @@
     - https://www.hcaptcha.com/
     - https://www.geetest.com/en/
 ### Real world examples of CAPTCHA
-- Online polling is an internet utility that should be heavily protected from robots. Computer systems can attack polls and fill them with responses which can swing a poll in one direction. Typically IP addresses are recorded, preventing a user from voting more than once on a poll but bots now have a multitude of ways to get around this. Political polling is very vulnerable to attacks and can have a significant effect on viewpoints based on which way the poll is favoring. Opinions often change and follow the side which the poll is leaning to, especially if the poll is extremely polarized because of bots. Individuals can feel like they are in the wrong and then change their stance accordingly. This is highly important for anyone who is working in the political polling area to address this issue to prevent malicious intent.
-- Any web service which requires the user to sign in using a username and password can be attacked by bots. Hackers can code bots to repeatedly try different password combinations at an extremely high rate. The rapid development of artificial intelligence and other technologies is making it increasingly easier to guess passwords. Adding an element which adds another step to the process in which a human needs to complete can slow or stop these attacks on individuals’ accounts and security.
-- Comment sections on websites can also be bombarded with comments left by bots. The bots leave the links to websites in the comments which in hand will increase its search engine ranking. Having a barrier to only let humans comment prevents the flood of bots keeps the comment section spam free for human users.
-- If a website is used to sell tickets, it can be vulnerable to bots purchasing all of the tickets right when they are released. If you are creating an event, concert, sports game, etc. it is extremely important to keep the payment process secure. Implementing another step into the ticket buying process online will eliminate the abuse of bots to buy out and then resell tickets for an inflated price. 
-- The online marketplace is an area that is targeted heavily by bots. Just like tickets, bots can quickly buy up items that are released and completely clear out the supply. In doing this the hackers are able to resell the product for a profit. 
+- **Online polling** is an internet utility that should be heavily protected from robots. Computer systems can attack polls and fill them with responses which can swing a poll in one direction. Typically IP addresses are recorded, preventing a user from voting more than once on a poll but bots now have a multitude of ways to get around this. Political polling is very vulnerable to attacks and can have a significant effect on viewpoints based on which way the poll is favoring. Opinions often change and follow the side which the poll is leaning to, especially if the poll is extremely polarized because of bots. Individuals can feel like they are in the wrong and then change their stance accordingly. This is highly important for anyone who is working in the political polling area to address this issue to prevent malicious intent.
+- **Web services** that require a username and password are especially vulnerable. Hackers can code bots to repeatedly try different password combinations at an extremely high rate. The rapid development of artificial intelligence and other technologies is making it increasingly easier to guess passwords. Adding a CAPTCHA can slow or stop these attacks on individuals’ accounts and security.
+- **Comment sections** on websites can also be bombarded with comments left by bots. The bots leave the links to websites in the comments which in hand will increase its search engine ranking. Having a barrier to only let humans comment prevents the flood of bots keeps the comment section spam free for human users.
+- **Ticket websites** can also be vulnerable to bots purchasing all of the tickets right when they are released. If you are creating an event, concert, sports game, etc. it is extremely important to keep the payment process secure. Implementing another step into the ticket buying process online will eliminate the abuse of bots to buy out and then resell tickets for an inflated price. 
+- **Online sales** is another area that is targeted heavily by bots. Just like tickets, bots can quickly buy up items that are released and completely clear out the supply. In doing this the hackers are able to resell the product for a profit. 
 
 
 ## Alternative Methods of Protection
@@ -40,3 +40,9 @@
 - Ideally, an upgraded CAPTCHA system would potentially be completely in the background, where the user does not need to see or do anything.
 
 
+### Contact Us: 
+Questions or concerns? Feel free to contact us at: 
+- enger.a@northeastern.edu
+- fallaici.l@northeastern.edu
+- fee.f@northeastern.edu
+- reiss.jo@northeastern.edu
