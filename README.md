@@ -23,8 +23,8 @@
 - By creating an extra hidden field within the form or website that only bots can see, responses with this field completed are able to be automatically discarded. This method is most useful in areas with form submissions, surveys, or other check the box/fill in the blank type responses. This solution is not a complete one as it does not deal with the increased traffic from the bots, just the end submission.
 ### Anti-Bot Plugins
 - If your website is Wordpress-based, there are plugins that work in the background to eliminate bots and their submissions as they occur. To name a few, CleanTalk and Akismet are two of the most popular ones. These plugins are mainly geared towards comments rather than submissions and therefore are more for forums and boards. They work by sending specific parameters of the comments and user to their cloud for analyzing, when this analysis returns it either allows the comment to be posted or blocks it as spam. 
-    - CleanTalk
-    - Akismet 
+    - [CleanTalk](https://cleantalk.org/)
+    - [Akismet](https://akismet.com/)
 ### Bot Management
 - The most effective new form for combatting bots and spam is through bot management solutions. This involves using machine learning, active verification and other development techniques in layers to distinguish between people, beneficial bots, and malicious bots. This is done in several ways.
     - Analysing header information and web requests that match known malicious bots.
