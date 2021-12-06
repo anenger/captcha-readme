@@ -15,8 +15,8 @@
 - Comment sections on websites can also be bombarded with comments left by bots. The bots leave the links to websites in the comments which in hand will increase its search engine ranking. Having a barrier to only let humans comment prevents the flood of bots keeps the comment section spam free for human users.
 - If a website is used to sell tickets, it can be vulnerable to bots purchasing all of the tickets right when they are released. If you are creating an event, concert, sports game, etc. it is extremely important to keep the payment process secure. Implementing another step into the ticket buying process online will eliminate the abuse of bots to buy out and then resell tickets for an inflated price. 
 - The online marketplace is an area that is targeted heavily by bots. Just like tickets, bots can quickly buy up items that are released and completely clear out the supply. In doing this the hackers are able to resell the product for a profit. 
-Installations/Applications
-If you wish to use CAPTCHA on your website, one of the easiest implementations is reCAPTCHA, offered by Google. To create a secure website, you must take other precautions in addition to utilizing reCAPTCHA. https://developers.google.com/recaptcha/
+### Installations/Applications
+- If you wish to use CAPTCHA on your website, one of the easiest implementations is reCAPTCHA, offered by Google. To create a secure website, you must take other precautions in addition to utilizing reCAPTCHA. https://developers.google.com/recaptcha/
 
 
 ## Alternative Methods of Protection
