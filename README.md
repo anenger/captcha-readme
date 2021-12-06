@@ -5,8 +5,9 @@
 
 ## Implementations
 ### Installations/Applications
-- If you wish to use CAPTCHA on your website, one of the easiest implementations is reCAPTCHA, offered by Google. To create a secure website, you must take other precautions in addition to utilizing reCAPTCHA.
+- If you wish to use CAPTCHA on your website, one of the easiest implementations is reCAPTCHA, offered by Google. To create a fully secure website, you must take other precautions in addition to utilizing reCAPTCHA.
     - https://developers.google.com/recaptcha/intro
+    - https://recaptcha-demo.appspot.com/
 - Other implementations include the following services, which both implement similar types of CAPTCHA tests:
     - https://www.hcaptcha.com/
     - https://www.geetest.com/en/
