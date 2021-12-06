@@ -32,9 +32,9 @@
     - Using machine learning to match the patterns of the user either to a bot or a person. 
 - There are many companies that offer this service if developing it from scratch is outside the scope of your work. DataDome and Netacea are a few of the more prominent ones. 
 ## Difficulties
-- Knowing which solution to choose is difficult in the first place: What if your website upgrades over time, or adds new features that require another type of security? For example, if you’re tasked with adding a comments section to your website some of these security solutions will not work, and you will have to add another layer of security on top of your existing security features.
-- User confusion: Some preexisting security features, as well as features you design yourself, may present challenges to users who are unfamiliar with a non-CAPTCHA feature set. The idea of using CAPTCHA or reCAPTCHA is so ingrained in users’ consciousness that using anything else has a high chance of tripping them up.
-- Performance: Since CAPTCHA and reCAPTCHA are the most ubiquitous bot prevention paradigms and are maintained by companies on the cutting-edge of web development, they are both easy to implement and do not have as high a load as a self-developed security solution would have. Balancing performance and security is one of the challenges a self-developed bot detector may face, especially on a highly populated website.
+- Which **solution** should you choose? What if your website upgrades over time, or adds new features that require another type of security? For example, if you’re tasked with adding a comments section to your website some of these security solutions will not work, and you will have to add another layer of security on top of your existing security features.
+- **User confusion:** Some preexisting security features, as well as features you design yourself, may present challenges to users who are unfamiliar with a non-CAPTCHA feature set. The idea of using CAPTCHA or reCAPTCHA is so ingrained in users’ consciousness that using anything else has a high chance of tripping them up.
+- **Performance:** Since CAPTCHA and reCAPTCHA are the most ubiquitous bot prevention paradigms and are maintained by companies on the cutting-edge of web development, they are both easy to implement and do not have as high a load as a self-developed security solution would have. Balancing performance and security is one of the challenges a self-developed bot detector may face, especially on a highly populated website.
 ## Conclusions
 - CAPTCHA is a good first step in combating bots and other web crawlers, but more sophisticated solutions are available and should be used either to replace CAPTCHA or in tandem.
 - Ideally, an upgraded CAPTCHA system would potentially be completely in the background, where the user does not need to see or do anything.
@@ -42,7 +42,7 @@
 
 ### Contact Us: 
 Questions or concerns? Feel free to contact us at: 
-- enger.a@northeastern.edu
-- fallaici.l@northeastern.edu
-- fee.f@northeastern.edu
-- reiss.jo@northeastern.edu
+- enger.a (at) northeastern.edu
+- fallaici.l (at) northeastern.edu
+- fee.f (at) northeastern.edu
+- reiss.jo (at) northeastern.edu
