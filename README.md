@@ -30,7 +30,10 @@
     - Analysing header information and web requests that match known malicious bots.
     - An active challenge, something like a reCAPTCHA or checking if the user is able to accept cookies.
     - Using machine learning to match the patterns of the user either to a bot or a person. 
-- There are many companies that offer this service if developing it from scratch is outside the scope of your work. DataDome and Netacea are a few of the more prominent ones. 
+- There are many companies that offer this service if developing it from scratch is outside the scope of your work. 
+    - [DataDome](https://datadome.co/)
+    - [Netacea](https://www.netacea.com/)
+    - [Cloudflare](https://www.cloudflare.com/)
 ## Difficulties
 - Which **solution** should you choose? What if your website upgrades over time, or adds new features that require another type of security? For example, if you’re tasked with adding a comments section to your website some of these security solutions will not work, and you will have to add another layer of security on top of your existing security features.
 - **User confusion:** Some preexisting security features, as well as features you design yourself, may present challenges to users who are unfamiliar with a non-CAPTCHA feature set. The idea of using CAPTCHA or reCAPTCHA is so ingrained in users’ consciousness that using anything else has a high chance of tripping them up.
