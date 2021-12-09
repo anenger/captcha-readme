@@ -46,7 +46,7 @@
 
 ### Contact Us: 
 Questions or concerns? Feel free to contact us at: 
-- enger.a (at) northeastern.edu \
-- fallaici.l (at) northeastern.edu \
-- fee.f (at) northeastern.edu \
-- reiss.jo (at) northeastern.edu
+- enger.a (at) northeastern.edu  
+- fallaici.l (at) northeastern.edu  
+- fee.f (at) northeastern.edu  
+- reiss.jo (at) northeastern.edu  
